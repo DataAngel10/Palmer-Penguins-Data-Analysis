@@ -1,6 +1,4 @@
 # 🐧 Palmer Penguins Data Analysis in R
-
-## Project
 EDA and statistical testing of the **Palmer Penguins dataset** using R to analyze the relationship between
 body mass and flipper length.
 
