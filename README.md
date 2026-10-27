@@ -2,7 +2,7 @@
 EDA and statistical testing of the **Palmer Penguins dataset** using R to analyze the relationship between
 body mass and flipper length.
 
-## 🛠️ Tech Stack
+## 🛠️ Tools
 - **Language:** R (Jupyter Notebook)
 - **Libraries:** `tidyverse`, `palmerpenguins`, `rstatix`
 
